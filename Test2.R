@@ -8,6 +8,8 @@ git push -u origin main
 git config --global user.email "isaline.taillard@uzh.ch"
 git config --global user.name "isalineta"
 
+#git add --> which which file we want to track
+# git add . --> track everything 
 
 x=1
 y=2
