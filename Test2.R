@@ -13,5 +13,5 @@ git config --global user.name "isalineta"
 
 x=1
 y=2
-z=3
+z=4
 test = x*y
